@@ -1,0 +1,28 @@
+Angular 4 notes
+
+e2e - (End to End) test file
+src -> app ->
+  Every application have at least 1 module and 1 component
+assets -
+env - configuration file for environment
+main.ts - main file (Starting point) for loading the project
+polyfills.ts - import script require for running Angular
+test.ts - use to setup test environments
+package.json - have dependencies needed for the application
+webpack - build automation tool - compile scripts and put in a bundle
+  Hot Module Replacement - inject bundle to html at runtime
+
+AngularJS -
+Angular 2 -
+Angular 4 - Component base architeture 
+          - Modules, a container of group of related components
+
+TypeScript
+  - Strong typing
+  - object-oriented features
+    Class, constructor, etc
+  - Great tooling
+  - A superset of javascript
+
+Component
+  - Create -> Register -> add element to HTML
